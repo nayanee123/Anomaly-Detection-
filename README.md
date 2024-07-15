@@ -1,2 +1,7 @@
 # Anomaly-Detection-
-Automated Anomaly Detection for Predictive Maintenance solutions to reduce risks and gain actionable insights through processing data from the equipment in many different industries.
+
+This Capstone project aims to predict machine breakdowns by identifying anomalies in the data. Predictive maintenance evaluates the condition of equipment by performing online monitoring, aiming to perform maintenance before the equipment degrades or breaks down.
+
+| S.NO.| TOPIC |  SUB-TOPIC| LINK |
+|-|-|-|-|
+|-|Introductrion||[explanation link](https://kh3-ls-storage.s3.us-east-1.amazonaws.com/Updated Project guide data set/AnomaData.xlsx)
